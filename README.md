@@ -1,0 +1,2 @@
+# FCAI
+Assignments and projects
